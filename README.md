@@ -1,2 +1,2 @@
-# blog-full-stack-project
+# blog-NodeJS + MYSQL-project
  
